@@ -1,0 +1,52 @@
+#s-3c516720-4b00-4f3b-8882-591f39da28bb #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-3c516720-4b00-4f3b-8882-591f39da28bb #s-Rectangle_1 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  filter: alpha(opacity=50);
+  -ms-transform: rotate(0.0deg);
+}
+#s-3c516720-4b00-4f3b-8882-591f39da28bb #s-Paragraph_2 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: alpha(opacity=70);
+  -ms-transform: rotate(0.0deg);
+}
+#s-3c516720-4b00-4f3b-8882-591f39da28bb #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-3c516720-4b00-4f3b-8882-591f39da28bb #s-Button_1 {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 3px 3px 3px 3px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  height: 54px;
+  width: 232px;
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-3c516720-4b00-4f3b-8882-591f39da28bb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

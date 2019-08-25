@@ -1,0 +1,158 @@
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e > #alignmentBox {
+  position: relative;
+  max-width: 567px;
+  max-height: 1096px;
+  width: 100%;
+  height: 100%;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_1 {
+  position: absolute;
+  width: 569px;
+  height: 1096px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_1 > img, #s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_1 > svg {
+  height: 1096px;
+  width: 569px;
+  box-shadow: none;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 {
+  position: absolute;
+  width: 565px;
+  height: 122px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 24.0pt;
+  font-family: 'Montserrat-Medium',Arial;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 > .clipping, #s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 > .paddingLayer {
+  height: 122px;
+  width: 565px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 span {
+  color: #FC1268;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Montserrat-Medium',Arial;
+  font-size: 24.0pt;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_3 span#rtr-s-Text_3_0 {
+  color: #FC1268;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Montserrat-Medium',Arial;
+  font-size: 24.0pt;
+  line-height: 0px;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_2 {
+  position: absolute;
+  width: 566px;
+  height: 335px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_2 > img, #s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Image_2 > svg {
+  height: 335px;
+  width: 566px;
+  box-shadow: none;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 {
+  position: absolute;
+  width: 566px;
+  height: 90px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 24.0pt;
+  font-family: 'Montserrat-Medium',Arial;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 > .clipping, #s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 > .paddingLayer {
+  height: 90px;
+  width: 566px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 span {
+  color: #FC0F3B;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Montserrat-Medium',Arial;
+  font-size: 24.0pt;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e #s-Text_4 span#rtr-s-Text_4_0 {
+  color: #FC0F3B;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Montserrat-Medium',Arial;
+  font-size: 24.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-88b8be61-2dd7-4888-b457-7c49494ea82e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
